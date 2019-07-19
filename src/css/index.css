@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+}
+img {
+  vertical-align: top;
+}
+.container {
+  height: 100%;
+}
+.container .mint-header {
+  background-color: #ff772c;
+}
+.mui-content {
+  padding-top: 40px;
+  height: 100%;
+  background-color: #fff;
+}
+.mui-content .container-body {
+  height: 100%;
+}
